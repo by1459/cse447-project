@@ -3,3 +3,10 @@ work/
 output/
 submit/
 submit.zip
+src/checkpoint_epoch_10.pth
+src/checkpoint_epoch_11.pth
+src/checkpoint_epoch_12.pth
+src/checkpoint_epoch_13.pth
+src/checkpoint_epoch_14.pth
+src/checkpoint_epoch_16.pth
+src/dataset_splits.pth
